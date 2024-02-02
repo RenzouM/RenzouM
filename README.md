@@ -21,6 +21,6 @@
 
 ---
 <p style="display: flex">
-<p>&nbsp;<img align="left" width="320" src="https://github-readme-stats.vercel.app/api?username=renzoum&show_icons=true&locale=en" alt="renzoum" /></p>
-<p><img align="top" width="320" src="https://github-readme-streak-stats.herokuapp.com/?user=renzoum&" alt="renzoum" /></p>
+<p>&nbsp;<img align="left" width="350" src="https://github-readme-stats.vercel.app/api?username=renzoum&show_icons=true&locale=en" alt="renzoum" /></p>
+<p><img align="top" width="350" src="https://github-readme-streak-stats.herokuapp.com/?user=renzoum&" alt="renzoum" /></p>
 </p>
