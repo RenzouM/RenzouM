@@ -3,7 +3,6 @@
 
 ---
 
-<img align="right" margin="auto" alt="Coding" width="380" height="450" src="https://images-cdn.exchange.art/qshqgr0cjqmr5phD1tK-3gnohYWmfcXwx6VWnk27o38?ext=fastly&optimize=medium"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=renzoum&label=Profile%20views&color=0e75b6&style=flat" alt="renzoum" />
 <p align="left">
 <a href="https://linkedin.com/in/renzoum" target="blank">
@@ -20,7 +19,4 @@
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
 
 ---
-<p style="display: flex">
-<p>&nbsp;<img align="top" width="370" src="https://github-readme-stats.vercel.app/api?username=renzoum&show_icons=true&locale=en" alt="renzoum" /></p>
-<p><img align="top" width="370" src="https://github-readme-streak-stats.herokuapp.com/?user=renzoum&" alt="renzoum" /></p>
-</p>
+<p><img align="left" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=renzoum&" alt="renzoum" /></p>
